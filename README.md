@@ -60,3 +60,4 @@ Deploy `dist/` to any static host (Netlify, Vercel, GitHub Pages, etc.).
 - Currency symbol: edit `CURRENCY` in [`src/lib/format.js`](src/lib/format.js).
 - The prototype's Supabase policies allow the anon key full read/write. Add
   Supabase Auth and tighten the row-level-security policies before real use.
+# spirit-soda
